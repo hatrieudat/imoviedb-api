@@ -88,7 +88,7 @@ To run this project, you will need to add the following environment variables to
 - Firebase credential
   ```
   FIREBASE_TYPE=
-  FIREBASE_PROJECTY_ID=
+  FIREBASE_PROJECT_ID=
   FIREBASE_PRIVATE_ID=
   FIREBASE_PRIVATE_KEY=
   FIREBASE_CLIENT_EMAIL=
